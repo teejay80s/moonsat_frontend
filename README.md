@@ -1,7 +1,5 @@
 # moonsat_frontend
 
-# Moonsat Application
-
 Welcome to the Moonsat application! This repository contains both the backend and frontend code for the Moonsat project.
 this is a simple application with homepage,login,register and dashboard
 
