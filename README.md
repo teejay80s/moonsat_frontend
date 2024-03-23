@@ -3,6 +3,7 @@
 # Moonsat Application
 
 Welcome to the Moonsat application! This repository contains both the backend and frontend code for the Moonsat project.
+this is a simple application with homepage,login,register and dashboard
 
 ## Backend Setup
 
@@ -24,26 +25,23 @@ Look for instructions on how to start the backend server. Typically, it involves
 If the README mentions installing dependencies, run:
 
 bash
-Copy code
+
 npm install
 6. Start the Backend Server
 Once dependencies are installed, start the backend server by running:
 
-bash
-Copy code
+
 npm start
 Frontend Setup
 1. Clone the Frontend Repository
-bash
-Copy code
+
 git clone https://github.com/teejay80s/moonsat_frontend.git
 2. Navigate into the Frontend Directory
 bash
 Copy code
 cd moonsat_frontend
 3. Install Frontend Dependencies
-bash
-Copy code
+
 npm install
 4. Start the Frontend Server
 bash
@@ -53,6 +51,4 @@ This will start the frontend development server, and you should be able to acces
 
 Make sure to have both the backend and frontend servers running simultaneously to have full functionality of the application.
 
-arduino
-Copy code
-```
+
